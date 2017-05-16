@@ -19,16 +19,16 @@
   "main": "iron-a11y-keys.html",
   "license": "http://polymer.github.io/LICENSE.txt",
   "dependencies": {
-    "polymer": "polymer/polymer#master",
-    "iron-a11y-keys-behavior": "polymerelements/iron-a11y-keys-behavior#2.0-preview"
+    "polymer": "polymer/polymer#2",
+    "iron-a11y-keys-behavior": "polymerelements/iron-a11y-keys-behavior#2"
   },
   "devDependencies": {
-    "paper-styles": "PolymerElements/paper-styles#2.0-preview",
-    "iron-component-page": "polymerelements/iron-component-page#2.0-preview",
+    "paper-styles": "PolymerElements/paper-styles#2",
+    "iron-component-page": "polymerelements/iron-component-page#2",
     "test-fixture": "polymerelements/test-fixture#latest",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#v1.0.0-rc.5",
-    "web-component-tester": "Polymer/web-component-tester",
-    "iron-test-helpers": "polymerelements/iron-test-helpers#2.0-preview"
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
+    "web-component-tester": "^6.0.0",
+    "iron-test-helpers": "polymerelements/iron-test-helpers#2"
   },
   "ignore": []
 }
